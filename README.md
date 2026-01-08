@@ -1,23 +1,36 @@
-<!--
-**michelleeileens/michelleeileens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Michelle
 
-Here are some ideas to get you started:
+CS @ University of Maryland | Building things at the intersection of AI, data, and product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about building products people actually want to use—and understanding the systems that power them.
 
-# Hey, I'm Michelle 👋
+## What I'm Working On
 
-CS grad who cares about building products people actually want to use.
+**[StudyEZ](https://github.com/michelleeileens/studyez)** — AI-powered lecture companion that transforms recordings into organized notes, summaries, and learning resources. Built at Bitcamp 2025 with React, Flask, MongoDB, and Google Gemini.
 
-Currently building **Resto**, because picking a restaurant shouldn't take 15 minutes and 5 apps. *Coming soon!*
+**[LLM Fine-tuning](https://github.com/michelleeileens/llm-finetuning-llama)** — Fine-tuned Llama 3.2 using LoRA and Unsloth. Exploring how to make LLMs more useful for specific domains.
 
-## Let's Connect! 
+## Featured Projects
+
+| Project | What It Does | Tech |
+|---------|--------------|------|
+| [bplus-tree](https://github.com/michelleeileens/bplus-tree) | B+ tree with disk persistence from scratch | Java |
+| [query-executor](https://github.com/michelleeileens/query-executor) | Database join algorithms (BNLJ, Sort-Merge, Hash) | Java |
+| [tsp-algorithms](https://github.com/michelleeileens/tsp-algorithms) | 7 TSP algorithms compared with visualizations | Python |
+| [moral-judgment-analysis](https://github.com/michelleeileens/moral-judgment-analysis) | How political leaning affects moral judgments | Python, Stats |
+| [neural-network-backprop](https://github.com/michelleeileens/neural-network-backprop) | Neural network & backprop from scratch | Python |
+| [bayesian-tracking](https://github.com/michelleeileens/bayesian-tracking) | Particle filters & Kalman filters | Python |
+
+## Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL, OCaml
+
+**AI/ML:** PyTorch, NumPy, Pandas, Scikit-learn, LLM Fine-tuning (LoRA), Hugging Face
+
+**Web:** React, Flask, Node.js, MongoDB, PostgreSQL
+
+**Tools:** Git, Docker, Linux
+
+## Let's Connect
+
 [LinkedIn](https://linkedin.com/in/michelleeileens) · [Email](mailto:meileensoewandi@gmail.com)
