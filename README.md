@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **michelleeileens/michelleeileens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, I'm Michelle 👋
+
+CS grad who cares about building products people actually want to use.
+
+Currently building **Resto**, because picking a restaurant shouldn't take 15 minutes and 5 apps. *Coming soon!*
+
+## Let's Connect! 
+[LinkedIn](https://linkedin.com/in/michelleeileens) · [Email](mailto:meileensoewandi@gmail.com)
